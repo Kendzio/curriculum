@@ -1252,4 +1252,5 @@ Next, make sure your method can handle multiple words:
 * [Tristan Ross's Solution](https://github.com/TristanRoss/substring)
 * [Robert Dunbar's Solution](https://github.com/RobertDunbar/ruby-problems/blob/master/substrings.rb)
 * [Adriel Bruno's Solution](https://github.com/AdrielTrigger/Odin-Project---Ruby-Building-Blocks/blob/master/substrings.rb)
+* [Konrad Zagozda's Solution](https://github.com/konradzagozda/ruby_building_blocks/blob/master/substrings.rb)
 </details>
